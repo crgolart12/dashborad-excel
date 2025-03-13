@@ -1,4 +1,4 @@
-# Dashboard de Vendas - EA Games e Minecraft
+# Dashboard de Vendas - EA play e Minecraft
 
 ## Descrição do Projeto
 Este projeto tem como objetivo criar um dashboard de vendas no Excel para EA Games e Minecraft, transformando dados brutos em informações visuais claras e úteis.
